@@ -3,11 +3,11 @@
   <title>羽</title>
   
   <subtitle>雄关漫道真如铁，而今迈步从头越。-润之</subtitle>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://zzx134196.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://zzx134196.github.io/"/>
   <updated>2020-08-10T09:45:44.850Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://zzx134196.github.io/</id>
   
   <author>
     <name>yu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/08/10/hello-world/"/>
-    <id>http://yoursite.com/2020/08/10/hello-world/</id>
+    <link href="http://zzx134196.github.io/2020/08/10/hello-world/"/>
+    <id>http://zzx134196.github.io/2020/08/10/hello-world/</id>
     <published>2020-08-10T09:45:44.849Z</published>
     <updated>2020-08-10T09:45:44.850Z</updated>
     
