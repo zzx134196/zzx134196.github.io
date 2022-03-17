@@ -7,5 +7,19 @@ body {
 font-family: FZFW,-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif;
 font-size: 16px;
 background: #000000;
-color: black;
+/* background-image:url('../../img/12.jpg') ; */
+color: white;
+}
+#page-header.full_page {
+  background-attachment: fixed !important;
+}
+#footer {
+  background: #000000 !important;
+  color:white;
+}
+#footer #footer-wrap, #footer #footer-wrap a {
+  color: white !important;
+}
+.article-meta-wrap{
+  color: white !important;
 }
