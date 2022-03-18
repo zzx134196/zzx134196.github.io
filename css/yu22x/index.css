@@ -14,12 +14,10 @@ color: #000000;
   background-attachment: fixed !important;
 }
 #footer {
-  background: #000000 !important;
-  color:white;
+  background: white !important;
+  color:black;
 }
-#footer #footer-wrap, #footer #footer-wrap a {
-  color: white !important;
-}
+
 .article-meta-wrap{
  color: white !important;
 }
