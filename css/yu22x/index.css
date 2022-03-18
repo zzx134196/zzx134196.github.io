@@ -6,9 +6,9 @@
 body {
 font-family: FZFW, sans-serif;
 font-size: 16px;
-background: #000000;
+background: #ffffff;
 /* background-image:url('../../img/12.jpg') ; */
-color: white;
+color: #000000;
 }
 #page-header.full_page {
   background-attachment: fixed !important;
