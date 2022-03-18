@@ -1,6 +1,6 @@
 @font-face{
   font-family: 'FZFW' ;  /* 自定义字体名称 */
-  src: url('http://r8xk339go.hn-bkt.clouddn.com/font/hc.ttf'); /* 引入字体文件的路径 */
+  src: url('//r8xk339go.hn-bkt.clouddn.com/font/hc.ttf'); /* 引入字体文件的路径 */
 }
 /*应用在body体里，放在第一个，font-family会按顺序使用字体族。如果第一个没找到就会找第二个，以此类推。*/
 body {
