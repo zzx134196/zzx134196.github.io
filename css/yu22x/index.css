@@ -13,11 +13,12 @@ color: #000000;
 #page-header.full_page {
   background-attachment: fixed !important;
 }
-#footer {
-  background: white !important;
-  color:black;
-}
+
 
 .article-meta-wrap{
  color: white !important;
+}
+#footer {
+  background: white !important;
+  color:black;
 }
