@@ -1,5 +1,4 @@
-
-(function($){
+$(function($){
     $.fn.snow = function(options){
     var $flake = $('<div id="snowbox" />').css({'position': 'absolute','z-index':'9999', 'top': '-50px'}).html('&#10052;'),
     documentHeight  = $(document).height(),
@@ -8,7 +7,7 @@
         minSize     : 10,
         maxSize     : 20,
         newOn       : 1000,
-        flakeColor  : "#FFFFFF" /* 此处可以定义雪花颜色，若要白色可以改为#FFFFFF */
+        flakeColor  : "#AFDAEF" /* 此处可以定义雪花颜色，若要白色可以改为#FFFFFF */
     },
     options = $.extend({}, defaults, options);
     var interval= setInterval( function(){
